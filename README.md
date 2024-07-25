@@ -1,22 +1,21 @@
 <div id="header" align="center">
-    <img src="https://i.postimg.cc/mrBwWxyH/banner-github.png" alt="Banner informativo sobre mi" width="100%">
+    <img src="https://i.postimg.cc/mrBwWxyH/banner-github.png](https://i.postimg.cc/g2D7ndGf/Black-Minimalist-Corporate-Professional-Profile-Linked-In-Banner.png" alt="Banner informativo sobre mi" width="100%">
     <h1 align="center">¡GOOD TO SEE YOU! 🤩 </h1>
 </div>
-    Hello there 👋 Allow me to introduce myself, my name is <strong>Bianca Dafne Deblinger</strong>, a motivated and dedicated young enthusiast in programming and graphic design, holding a strong academic background from the Faculty of Architecture and Urbanism (FAU) at the National University of Tucumán Argentina along with a certification in Design from the prestigious Rolling Code School.<br><br>My current education in web technologies, including HTML, CSS, and JavaScript, has provided me with a solid foundation for building responsive and visually appealing websites. I stand out for my meticulous approach to user interface design, where I blend aesthetics and functionality seamlessly. Moreover, my eagerness to learn and thrive in a dynamic environment drives me to seek training opportunities and challenging projects. I am eager to contribute to development teams or continue my professional growth in any project that offers a nurturing learning and growth environment.<br><br>If you are in search of a proactive and committed team member for your web development team or an individual with the dedication and enthusiasm to learn and excel, I would be delighted to be your choice.<br>
+   Hello 👋 Allow me to introduce myself, my name is <strong>Bianca Dafne Deblinger</strong>, a young, enthusiastic, motivated, and dedicated individual in programming and graphic design, with a certification in Full Stack MERN Development from Rolling Code School.<br><br>My current education in web technologies, including HTML, CSS, and JavaScript, has provided me with a solid foundation for building responsive and visually appealing websites. I stand out for my meticulous approach to user interface design, where I seamlessly blend aesthetics and functionality. Additionally, I have knowledge of Mobile Application Development from Coderhouse. I am eager to contribute to development teams or continue my professional growth in any project that offers a nurturing environment for learning and growth.<br><br>If you are in search of a proactive and committed team member for your web development team, or an individual with the dedication and enthusiasm to learn and excel, I would be delighted to be your choice.<br>
 
 ## About me:
 
--   🎓 Currently, I find myself in the final stages of my studies at FAU UNT, which has provided me with a solid foundation in creative thinking and the resolution of architectural and urban problems, including a rigorous analysis of the urban context.
--   💻 My passion for programming led me on an exciting journey to Rolling Code School, where I have been acquiring advanced skills in web development and cutting-edge technologies.
--   🖌️ My experience in graphic design and social media advertising allows me to seamlessly merge visual aesthetics with functionality in my projects, creating attractive and effective solutions.
+-   🎓 Currently, I am in the final stages of my studies at Coderhouse, which has provided me with a solid foundation in creative thinking and problem-solving within mobile application development.
+-   💻 My passion for programming led me on an exciting journey to Rolling Code School, where I acquired advanced skills in web development and cutting-edge technologies.
+-   🖌️ My experience in graphic design allows me to seamlessly merge visual aesthetics with functionality in my projects, creating attractive and effective solutions.
 -   👓 My early curiosity drove me to learn through trial and error across various areas of technology, including mobile devices, social media, PC software, and more.
 
 
 ## What i offer:
 
 -   🌐 High-Quality Web Development: I can create customized websites and web applications that are not only visually appealing but also functional and optimized for exceptional performance.
--   🎨 Creative Graphic Design: My expertise in graphic design allows me to bring your ideas to life through logos, visual elements, and multimedia content that stand out.
--   📈 Effective Advertising Strategies: Through social media and other platforms, I can assist you in promoting your business and reaching a broader audience.
+-   🎨 Creative Graphic Design: My experience in graphic design allows me to bring your ideas to life through logos, visual elements, and multimedia content that stand out.
 -   😎 Innovative Problem-Solving and Creativity: I bring innovative ideas and creative thinking to the table when tackling problems or specific challenges.
 
 
